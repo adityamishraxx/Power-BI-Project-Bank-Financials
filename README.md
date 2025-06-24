@@ -1,4 +1,4 @@
-# 📊 HDFC Financial Dashboard – Power BI Project
+# 📊 Bank Financials Dashboard – Power BI Project
 
 This project presents an interactive and insightful **Power BI dashboard** to analyze the **financial performance of HDFC**, based on a sample dataset. It covers key metrics such as **Income**, **Expenses**, **Expense Types**, and **Net Profitability**, along with comparisons between **Actuals vs Budget vs Forecast** scenarios.
 
